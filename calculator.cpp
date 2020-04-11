@@ -27,6 +27,12 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
+	int a = 4;
+	int b = 21;
+	
+	int sum = a + b;
+	
+	cout << sum;
+	
 	return 0;
 }

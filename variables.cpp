@@ -27,6 +27,13 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
+	int tuna;
+	
+	tuna = 76;
+	
+	cout << tuna;
+	
 	return 0;
 }
+
+
