@@ -1,5 +1,5 @@
-# cpp
-* A roadmap of my cpp studies
-* Utility functions
+# cpp introduction
+* A roadmap of my cpp beginner studies using [C++ Tutorial From Basic to Advance](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
 ---
-**and many more**
+# cpp algorithms
+* A roadmap of my cpp algorithm studies[coming soon]
