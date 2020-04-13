@@ -17,4 +17,17 @@ int main()
 
 	mainFile<<"I am the main starter\n";
 	mainFile.close();
+
+	ofstream otherFile("other.txt");
+	if(otherFile.is_open())
+	{
+		cout<<"ok the other file is open"<<endl;
+	}
+	else
+	{
+		cout<<"file is not open yet"<<endl;
+	}
+	otherFile<<"I am the other file\n";
+	otherFile.close();
+
 }
